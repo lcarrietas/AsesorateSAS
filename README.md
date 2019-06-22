@@ -3,7 +3,7 @@ Proyecto de ingeniería de requisitos, de un software para asesorías académica
 
 ## Arquitectura
 
-**Vistas: ** 
+**Vistas:** 
  -HTML
  -CSS
  -Javascript

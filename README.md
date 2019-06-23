@@ -14,5 +14,8 @@ Proyecto de ingeniería de requisitos, de un software para asesorías académica
 **Codificación**
  -PEP8 Estandar
  
+**Base de datos**
+-MySQL
+ 
 
 

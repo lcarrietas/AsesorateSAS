@@ -4,18 +4,18 @@ Proyecto de ingeniería de requisitos, de un software para asesorías académica
 ## Arquitectura
 
 **Vistas:** 
- -HTML
- -CSS
- -Javascript
+ - HTML
+ - CSS
+ - Javascript
  
 **Controlador**
- -Python 3 Django
+ - Python 3 Django
  
 **Codificación**
- -PEP8 Estandar
+ - PEP8 Estandar
  
 **Base de datos**
--MySQL
+- MySQL
  
 
 

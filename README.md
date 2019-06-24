@@ -16,6 +16,8 @@ Proyecto de ingeniería de requisitos, de un software para asesorías académica
  
 **Base de datos**
 - MySQL
+  -**Usuario**: admin-admin
+  -**Nombre base de datos**:asesorate-sas
  
 
 

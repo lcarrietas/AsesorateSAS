@@ -2,8 +2,9 @@
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets
 #importar los modelos creados
-#from servi.express.models import
+#from AnacondaSolutions.asesorate_sas.models import Estudiante
 #importar los serializadores creados :P  
+#EstudianteSerializer
 from AnacondaSolutions.asesorate_sas.serializers import UserSerializer, GroupSerializer
 from rest_framework.response import Response
 
@@ -21,6 +22,14 @@ class GroupViewSet(viewsets.ModelViewSet):
     """
     queryset = Group.objects.all()
     serializer_class = GroupSerializer   
+    
+class EstudianteViewSet(viewsets.ModelViewSet):
+    """
+    API endpoint that allows groups to be viewed or edited.
+    """
+    queryset = Estudiante.objects.all()
+    serializer_class = EstudianteSerializer   
+    
     
     
 

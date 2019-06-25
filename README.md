@@ -43,6 +43,9 @@ Proyecto de ingeniería de requisitos, de un software para asesorías académica
  les toca crear tabals en la base de datos tienen q crear los modelos
  y luego mandar el comando python manage.py migrate, los serialziadores
  son para empaquetar eso en documentos json y las vistas son para 
- la parte de un crud basico. 
+ la parte de un crud basico. Instalar xampp-windows-x64-7.3.6-2-VC15-installer
+ tienen que crear un usuario admin con password admin, y una base de datos 
+ asesorate_sas para que les funcione django, que ya esta configurado con esos
+ datos. 
  
 

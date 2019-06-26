@@ -48,4 +48,6 @@ Proyecto de ingeniería de requisitos, de un software para asesorías académica
  asesorate_sas para que les funcione django, que ya esta configurado con esos
  datos. 
  
-
+ **Estructura base de datos**
+ - Las bases de datos empezaran por mayuscula y en plural, ejemplo:Estudiantes
+ - Los atributos son en minuscula y como digan los criterios, ejemplo: estudiante tiene nombre, entonces en Estudiantes hay un atributo; nombre
